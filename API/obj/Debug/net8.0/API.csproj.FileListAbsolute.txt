@@ -152,3 +152,4 @@
 /Users/adirnoyman/Documents/Developer/Udemy/DatingSite_.NET_NeilCummings_04.24/development/DatingApp_v3_04.2024/API/obj/Debug/net8.0/API.pdb
 /Users/adirnoyman/Documents/Developer/Udemy/DatingSite_.NET_NeilCummings_04.24/development/DatingApp_v3_04.2024/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/adirnoyman/Documents/Developer/Udemy/DatingSite_.NET_NeilCummings_04.24/development/DatingApp_v3_04.2024/API/obj/Debug/net8.0/ref/API.dll
+/Users/adirnoyman/Documents/Developer/Udemy/DatingSite_.NET_NeilCummings_04.24/development/DatingApp_v3_04.2024/API/obj/Debug/net8.0/API.sourcelink.json
